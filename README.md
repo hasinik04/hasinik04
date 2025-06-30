@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Kathi Hasini
+Hi there 👋! I'm Kathi Hasini
 
 🔭 I’m currently studying at Saveetha Engineering College
 🌱 I’m currently learning on Python,Javascript and C programming
